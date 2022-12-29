@@ -1,0 +1,10 @@
+package framework;
+
+public class withoutfrramework {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
